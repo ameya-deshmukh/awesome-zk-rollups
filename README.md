@@ -7,6 +7,8 @@ There are a lot of resources on zero-knowledge cryptography and zero-knowledge p
 
 ## Types of rollups - overview and differences
 
+[Introduction to ZK Proofs & Rollups](https://polybase.xyz/blog/zk-proofs-and-rollups) by Polybase
+
 [Optimistic and Validity Rollups: Analysis and Comparison between Optimism and StarkNet](https://arxiv.org/abs/2210.16610) by [Luca Donnoh](https://github.com/lucadonnoh) - a good primer on how optimistic and zk-rollups differ fundamentally
 
 [Optimistic v/s ZK-rollups deep dive](https://blog.matter-labs.io/optimistic-vs-zk-rollup-deep-dive-ea141e71e075) by Alex Gluchowski
